@@ -1,2 +1,2 @@
 # Hyoid
-README1
+README
