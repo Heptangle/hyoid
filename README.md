@@ -1,2 +1,1 @@
-# Hyoid
-README
+# Paradeigma
