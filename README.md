@@ -1,7 +1,5 @@
 # Zpecies
 
-## Synergy Paradigm
-
 <!-- [![Evolution-Ready](https://img.shields.io/badge/Evolution-Ready-blue?logo=gitpod)](https://gitpod.io/from-referrer/) -->
 
 • English (en): Zpecies is a concept completely focused on shaping and realizing the intrinsic human purpose of getting involved to achieve and sustain a flourishing, steady and progressive development of humanity by proposing to the world a neutral, objective and evergreen perspective, capable of defining the axioms and standards of an ideal paradigm, tiller of our path towards the Whole.
