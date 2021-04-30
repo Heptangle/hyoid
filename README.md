@@ -9,4 +9,4 @@
 ---
 \* Peruse the [Documentation](https://github.com/zpecies/paradeigma/wiki "Zpecies Documentation") before delving into Zpecies to get into its universal environment avoiding ignorance or hesitation to understand or contribute.
 
-🖐 [Zpecies](https://zpecies.org "Zpecies Hyoeides")
+🖐 **[Zpecies]**(https://zpecies.org "Zpecies Hyoeides"){:target="_blank"}
