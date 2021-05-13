@@ -6,6 +6,8 @@
 
 * Español (es): Zpecies es un concepto completamente enfocado en dar forma y hacer realidad el propósito humano intrínseco de implicarse para lograr y mantener un desarrollo floreciente, firme y progresivo de la humanidad, proponiendo al mundo una perspectiva neutra, objetiva y perenne, capaz de definir los axiomas y estándares de un paradigma ideal, labrador de nuestro camino hacia el Todo.
 
+* Português (pt): Zpecies é um conceito completamente focado em moldar e realizar o propósito humano intrínseco de se envolver para alcançar e sustentar um desenvolvimento florescente, estável e progressivo da humanidade, propondo ao mundo uma perspectiva neutra, objetiva e perene, capaz de definir os axiomas e padrões de um paradigma ideal, lavrador do nosso caminho para o Todo.
+
 ---
 \* Peruse the [Documentation](https://github.com/zpecies/paradeigma/wiki "Zpecies Documentation") before delving into Zpecies to get into its universal environment avoiding ignorance or hesitation to understand or contribute.
 
