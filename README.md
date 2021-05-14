@@ -10,6 +10,8 @@
 
 * Português (pt): Zpecies é um conceito completamente focado em moldar e realizar o propósito humano intrínseco de se envolver para alcançar e sustentar um desenvolvimento florescente, estável e progressivo da humanidade, propondo ao mundo uma perspectiva neutra, objetiva e perene, capaz de definir os axiomas e padrões de um paradigma ideal, lavrador do nosso caminho para o Todo.
 
+* Русский (ru): Zpecies - это концепция, полностью ориентированная на формирование и реализацию внутренней человеческой цели участия в достижении и поддержании процветающего, устойчивого и прогрессивного развития человечества, предлагая миру нейтральную, объективную и постоянную перспективу, способную определить аксиомы и стандарты идеальной парадигмы, определяющей наш путь к Целому.
+
 ---
 \* Peruse the [Documentation](https://github.com/zpecies/paradeigma/wiki "Zpecies Documentation") before delving into Zpecies to get into its universal environment avoiding ignorance or hesitation to understand or contribute.
 
