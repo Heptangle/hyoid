@@ -6,5 +6,3 @@ Due to its continuous advancement, all the vital signs of the paradigm are verif
 | :---: | --- | :---: |
 | Format | The form of **manifestation** | , |
 | Semantics | Everything related to **meaning** | . |
-| Semantics | Everything related to **meaning** | . |
-| Format | The form of **manifestation** | , |
