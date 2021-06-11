@@ -4,5 +4,6 @@ Due to its continuous advancement, all the vital signs of the paradigm are verif
 
 | Sign | Interpretation | State |
 | :---: | --- | :---: |
-| Format | The form of manifestation | , |
+| Format | The form of **manifestation** | , |
+| Semantics | Everything related to **meaning** | . |
 | Semantics | Everything related to meaning | . |
