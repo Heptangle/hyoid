@@ -1,1 +1,1 @@
-# Everful
+# Everful Web
