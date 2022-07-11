@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "name": "Everful",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Everful",
+  "start_url": "/",
+  "theme_color": "#808080"
+}
