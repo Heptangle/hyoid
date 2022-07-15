@@ -2,4 +2,4 @@
 
 ## Contact
 
-E-mail: nt@everful.org
+E-mail: webmaster@everful.org
