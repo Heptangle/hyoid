@@ -1,1 +1,1 @@
-Do not read me, it is self-intuitive.
+Do not README, it should be self-intuitive.
