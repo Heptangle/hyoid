@@ -1,1 +1,1 @@
-Do not README, it should be self-intuitive.
+Do not README, it should be self-explanatory.
