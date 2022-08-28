@@ -1,9 +1,1 @@
-# Everful Web
-
-## Authors
-
-- [Álvaro Arango](https://github.com/alvaroarango)
-
-## Contact
-
-E-mail: webmaster@everful.org
+Do not read me, it is self-intuitive.
