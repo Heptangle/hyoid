@@ -1,10 +1,23 @@
-# editorconfig.org
+# https://editorconfig.org
 
+# top-most EditorConfig file
 root = true
 
+# All files
 [*]
 charset = utf-8
 end_of_line = lf
 indent_style = tab
 insert_final_newline = true
 trim_trailing_whitespace = true
+
+# HTML
+[*.{htm,html}]
+indent_size = 2
+tab_width = 8
+
+# Markdown
+[*.md]
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = false
